@@ -1,0 +1,21 @@
+body {
+  padding-top: 70px;
+}
+
+#remember {
+  margin-right: 7px;
+}
+
+.form-inline {
+  display: inline-block;
+}
+
+.has-error .todo-error {
+  color: #ff0000;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
