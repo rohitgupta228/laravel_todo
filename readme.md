@@ -9,7 +9,7 @@ This is built on Laravel Framework 5.5. This was built for demonstrate purpose.
 Clone the repository-
 
 ```
-git clone https://github.com/milon/laravel-todo.git
+git clone https://github.com/rohitgupta228/laravel_todo.git
 ```
 
 Then cd into the folder with this command-
